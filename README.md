@@ -1,12 +1,12 @@
-# Hey there, I'm Jose Luis 👋
+# Hi! I'm Jose Luis Venega 👋
 
-I'm currently brewing something awesome that's launching soon! Get hyped and stay tuned for updates.
+Computer Engineering student at the University of Cádiz. I'm passionate about enhancing my skills in ethical hacking, with a particular emphasis on penetration testing. I dedicate my time to solving practical labs and challenges on platforms such as Hack The Box and VulnHub, while also actively participating in CTF competitions, where I apply my expertise in cybersecurity and technical problem-solving.
 
 ## Featured Projects
 
 -   [Universidad](https://github.com/Joseeelv/Universidad): Code repository for programming assignments from my Computer Science degree at the University of Cádiz.
 -   [Joseeelv.github.io](https://github.com/Joseeelv/Joseeelv.github.io): Wiki about cybersecurity content I'm learning.
--   [AtlanSec/Atlansec-Web](https://github.com/AtlanSec/Atlansec-Web)
+-   [AtlanSec/Atlansec-Web](https://github.com/AtlanSec/Atlansec-Web): Atlansec's cybersecurity content wiki.
 
 ## Get in touch!
 
